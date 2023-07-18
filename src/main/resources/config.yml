@@ -1,0 +1,6 @@
+Settings:
+  - "world|1|0"
+Messages:
+  Reach-Level: '&f&l您已经到达%world_level%等级 自动关闭新手保护'
+  None-pvp: '&F&l您还在等级范围内无法攻击其他人'
+  Player-pvp: '这位玩家处于新手保护中'
